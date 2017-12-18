@@ -1,4 +1,4 @@
-//#include<stdio.h>
+#include<stdio.h>
 #include<conio.h>
 #define max 3
 char bc,cd,de;
